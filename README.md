@@ -1,4 +1,4 @@
-#### React Project #1 - Birthday Reminder 🎉
+## React Project #1 - Birthday Reminder 🎉
 
 ![with-birthdays](./public/reactproject1photo1.PNG)
 ---
